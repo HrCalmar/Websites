@@ -1,17 +1,10 @@
-# API Danmark
-Kender du et dansk API der mangler på listen? Så send et pull request afsted eller opret et issue!
+# Random Website by
+Kender du et random website der mangler på listen? Så send et pull request afsted eller opret et issue!
 
 ## Information
 
 ### Tilgængelighed
 
-#### Public
-
-Det er gratis at bruge API'et, også selvom det kræver login etc.
-
-#### Private
-
-Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 
 
 
