@@ -1,12 +1,5 @@
-# Random Website by
+## Random Website by
 Kender du et random website der mangler på listen? Så send et pull request afsted eller opret et issue!
-
-## Information
-
-### Tilgængelighed
-
-
-
 
 ## Spil
 
