@@ -15,3 +15,10 @@ Kender du et random website der mangler på listen? Så send et pull request afs
 | [Purrli](https://purrli.com/)                                                                                  | Purrli genskaber renligt lyden og tilstedeværelsen af en kat online. |
 | [Bongo](https://bongo.cat/)                                                                                    | Slå bongotrommer som Bongo Cat! |
 | [Visdeurbel](https://visdeurbel.nl/)                                                                           | Hjælp operatøren med at sikre fiskende kommer igennem sluserne i Holland | 
+
+
+## Online Værktøjer
+
+| Website                                                                                                        | Beskrivelse | 
+| -------------------------------------------------------------------------------------------------------------- |:----:|
+| [Compressor.io](https://compressor.io/)                                                                                  | Compressor.io hjælper dig med billedkomprimering til dit website. |
