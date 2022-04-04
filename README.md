@@ -22,3 +22,6 @@ Kender du et random website der mangler på listen? Så send et pull request afs
 | Website                                                                                                        | Beskrivelse | 
 | -------------------------------------------------------------------------------------------------------------- |:----:|
 | [Compressor.io](https://compressor.io/)                                                                                  | Compressor.io hjælper dig med billedkomprimering til dit website. |
+| [Magiceraser.io](https://www.magiceraser.io/)                                                                                  | Brug AI til at fjerne uønskede ting fra billeder på få sekunder. |
+| [ILovePDF.com](https://www.ilovepdf.com/)                                                                                  | Hvert værktøj, du skal bruge for at arbejde med PDF-filer samlet på ét sted. |
+| [Signaturehound.com](https://signaturehound.com/)                                                                                  | Hvert værktøj, du skal bruge for at arbejde med PDF-filer samlet på ét sted. |
